@@ -409,7 +409,7 @@ If you use this code in your research, please cite:
 
 ```
 CAFA-6 Protein Function Prediction
-Kaggle Competition: https://www.kaggle.com/competitions/cafa-5-protein-function-prediction
+Kaggle Competition: https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/overview
 ESM-2 Model: https://github.com/facebookresearch/esm
 ```
 
